@@ -28,8 +28,6 @@ Go to `index.html` and fill your information.
 
 In all of the places where you're supposed to fill your information you'll find HTML comments. As shown below just replace what is already in the opening and closing tags below the comment with your information.
 
-```html
-<!-- 
   Hello 😊.
 
   This template is designed and developed by Nisar Hassan Naqvi
@@ -39,10 +37,6 @@ In all of the places where you're supposed to fill your information you'll find 
   My Website: https://nisar.dev
 
   For business & inquires, contact me => syednisarhassan12@gmail.com
--->
-
-<!--
-  Follow the instructions written in comments to create your stunning portfolio
 -->
 
 <!DOCTYPE html>
